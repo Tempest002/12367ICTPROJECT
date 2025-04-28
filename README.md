@@ -1,6 +1,11 @@
 ICT-12367
 Thanapon Suttisavat 67135860
 
+![image](https://github.com/user-attachments/assets/5224a919-6c44-4ff5-806d-402293d00bcb)
+![image](https://github.com/user-attachments/assets/cac5cf46-f917-4a54-a508-ac6abbc443b0)
+
+
+
 ICT12367 Project
 โปรเจกต์นี้เป็นส่วนหนึ่งของการเรียนในรายวิชา ICT12367
 ภายในโปรเจกต์มีตัวอย่างการทำงานเกี่ยวกับ Python, Web Development และ Data Processing
